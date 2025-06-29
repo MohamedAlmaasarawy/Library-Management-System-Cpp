@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1722774309 source:f:\programming\c++\projects\library system\lib.cpp
+	"lib.h"
+
+1722774364 source:f:\programming\c++\projects\library system\main.cpp
+	"lib.h"
+
+1722774148 f:\programming\c++\projects\library system\lib.h
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1722774309 source:f:\programming\projects\library system\lib.cpp
+	"lib.h"
+
+1722774148 f:\programming\projects\library system\lib.h
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1722774364 source:f:\programming\projects\library system\main.cpp
+	"lib.h"
+
